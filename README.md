@@ -1,3 +1,5 @@
+<img width="1912" height="1017" alt="image" src="https://github.com/user-attachments/assets/a743acfd-3c04-4964-974a-4a4fded99c4a" />
+
 # 灵感火花 SparkSeek
 
 基于 AI 驱动的批量文章生成工具，可根据给定主题（Seed）生成高质量的中文博客文章。
